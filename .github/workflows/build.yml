@@ -32,3 +32,4 @@ jobs:
         with:
           name: "Folia"
           path: "build/libs/*.jar"
+#Artifacts
